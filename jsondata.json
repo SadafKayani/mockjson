@@ -8,23 +8,19 @@
 		"children": [
 		{
 			"name": "Anna Karenina",
-			"value": 50
+			"value": 28
 		},	
 		{
 			"name": "War and Peace",
-			"value": 75
+			"value": 18
 		},
 		{
 			"name": "The Great Gatsby",
-			"value": 25
+			"value": 19
 		},	
 		{
 			"name": "Great Expections",
-			"value": 50
-		},	
-		{
-			"name": "Pride and Prejudice",
-			"value": 75
+			"value": 19
 		}
 		]
 	},
@@ -34,15 +30,15 @@
 		"children": [
 		{
 			"name": "And Then There Were None",
-			"value": 75
+			"value": 10
 		},	
 		{
 			"name": "Gone Girl",
-			"value": 50
+			"value": 13
 		},
 		{
 			"name": "In Cold Blood",
-			"value": 25
+			"value": 13
 		},	
 		{
 			"name": "Woman in White",
@@ -50,7 +46,11 @@
 		},	
 		{
 			"name": "The Da Vinci Code",
-			"value": 50
+			"value": 16
+		},	
+		{
+			"name": "The Girl with the Dragon Tattoo",
+			"value": 28
 		}
 		]
 	},
@@ -60,49 +60,20 @@
 		"children": [
 		{
 			"name": "The Fellowship Of The Ring",
-			"value": 75
+			"value": 14
 		},	
 		{
 			"name": "The Lion, The Witch and The Wardrobe",
-			"value": 75
+			"value": 15
 		},
 		{
 			"name": "The Golden Compass",
-			"value": 50
+			"value": 16
 		},	
 		{
 			"name": "American Gods",
-			"value": 25
-		},	
-		{
-			"name": "Harry Potter and the Sorcerer's Stone",
-			"value": 50
-		}
-		]
-	},
-	{
-		"name": "Dystopia",
-		"value": 32000,
-		"children": [
-		{
-			"name": "Brave New World",
-			"value": 25
-		},	
-		{
-			"name": "The Handmaid's Tale",
-			"value": 75
-		},
-		{
-			"name": "1984",
-			"value": 75
-		},	
-		{
-			"name": "Station Elevon",
-			"value": 50
-		},	
-		{
-			"name": "The Hunger Games",
-			"value": 75
+			"value": 11
+		}"value": 50
 		}
 		]
 	}
