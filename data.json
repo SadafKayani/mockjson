@@ -1,27 +1,27 @@
 {
-	"name": 'Max',
+	"name": "Max",
 	"value": 100,
 	"children": [
 	{
-		"name": 'Sylvia',
+		"name": "Sylvia",
 		"value": 75,
 		"children": [
 		{
-			"name": 'Craig',
+			"name": "Craig",
 			"value": 25,
 		},	
 		{
-			"name": 'Robin',
+			"name": "Robin",
 			"value": 25,
 		},
 		{
-			"name": 'Anna',
+			"name": "Anna",
 			"value": 25,
 		}
 		]
 	},
 	{
-		"name": 'Mr. X',
+		"name": "Mr. X",
 		"value": 75,
 	}
 	]
