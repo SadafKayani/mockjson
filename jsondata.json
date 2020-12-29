@@ -4,7 +4,7 @@
 	"children": [
 	{
 		"name": "Classics",
-		"value": 32000
+		"value": 32000,
 		"children": [
 		{
 			"name": "Anna Karenina",
@@ -30,7 +30,7 @@
 	},
 	{
 		"name": "Mystery",
-		"value": 32,000,
+		"value": 32000,
 		"children": [
 		{
 			"name": "And Then There Were None",
@@ -56,7 +56,7 @@
 	},
 	{
 		"name": "Fantasy",
-		"value": 32,000,
+		"value": 32000,
 		"children": [
 		{
 			"name": "The Fellowship Of The Ring",
@@ -82,7 +82,7 @@
 	},
 	{
 		"name": "Dystopia",
-		"value": 32,000,
+		"value": 32000,
 		"children": [
 		{
 			"name": "Brave New World",
