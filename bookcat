@@ -27,6 +27,15 @@
 		 {"name":"The Da Vinci Code","group":"B","value":2003,"colname":"level3"}
 	 ]
 	},
+	{"name":"Mystery",
+	 "children":[
+		 {"name":"La Then There Were None","group":"C","value":1939,"colname":"level3"},
+		 {"name":"Gone Girl","group":"A","value":2012,"colname":"level3"},
+		 {"name":"In Cold Blood","group":"B","value":1965,"colname":"level3"},
+		 {"name":"Woman in White","group":"B","value":1859,"colname":"level3"},
+		 {"name":"The Da Vinci Code","group":"B","value":2003,"colname":"level3"}
+	 ]
+	},
 	{"name":"Fantasy",
 	 "children":[
 		{"name":"The Fellowship of The Ring","group":"B","value":1954,"colname":"level3"},
