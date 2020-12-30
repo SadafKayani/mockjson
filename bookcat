@@ -8,6 +8,14 @@
 		 {"name":"Great Expectations","group":"C","value":19,"colname":"level3"}
 	 ]
 	},
+	{"name":"Dystopia",
+	 "children":[
+		 {"name":"Brave New World","group":"A","value":28,"colname":"level3"},
+		 {"name":"The Handmaid's Tale","group":"A","value":19,"colname":"level3"},
+		 {"name":"1984","group":"C","value":18,"colname":"level3"},
+		 {"name":"Station Eleven","group":"C","value":19,"colname":"level3"}
+	 ]
+	},
 	{"name":"Mystery",
 	 "children":[
 		 {"name":"And Then There Were None","group":"C","value":14,"colname":"level3"},
