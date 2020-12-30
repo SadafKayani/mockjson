@@ -29,11 +29,11 @@
 	},
 	{"name":"Fantasy",
 	 "children":[
-		{"name":"The Fellowship of The Ring","value":1954,"stars":4.36,"url":"https://www.goodreads.com/book/show/3263607-the-fellowship-of-the-ring","size":3},
-		{"name":"The Lion, The Witch and The Wardrobe","value":1950,"stars":4.22,"url":"https://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe","size":7},
-		{"name":"The Golden Compass","value":1995,"stars":3.99,"url":"https://www.goodreads.com/book/show/119322.The_Golden_Compass","size":5},
+		{"name":"The Fellowship of The Ring","value":1954,"stars":4.36,"url":"https://www.goodreads.com/book/show/3263607-the-fellowship-of-the-ring","size":2.5},
+		{"name":"The Lion, The Witch and The Wardrobe","value":1950,"stars":4.22,"url":"https://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe","size":4},
+		{"name":"The Golden Compass","value":1995,"stars":3.99,"url":"https://www.goodreads.com/book/show/119322.The_Golden_Compass","size":2},
 		{"name":"American Gods","value":2001,"stars":4.10,"url":"https://www.goodreads.com/book/show/30165203-american-gods","size":2},
-		{"name":"Harry Potter and The Sorcerer's Stone","value":1997,"stars":4.47,"url":"https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone","size":9},
+		{"name":"Harry Potter and The Sorcerer's Stone","value":1997,"stars":4.47,"url":"https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone","size":4},
 		{"name":"Eragon","value":2002,"stars":3.91,"url":"https://www.goodreads.com/book/show/113436.Eragon","size":1}
 	]
 	},
