@@ -5,7 +5,8 @@
 		 {"name":"Anna Karenina","group":"A","value":1877,"colname":"level3"},
 		 {"name":"War and Peace","group":"A","value":1867,"colname":"level3"},
 		 {"name":"The Great Gatsby","group":"C","value":1925,"colname":"level3"},
-		 {"name":"Great Expectations","group":"C","value":1861,"colname":"level3"}
+		 {"name":"Great Expectations","group":"C","value":1861,"colname":"level3"},
+		 {"name":"Pride and Prejudice","group":"C","value":1861,"colname":"level3"}
 	 ]
 	},
 	{"name":"Dystopia",
@@ -13,7 +14,9 @@
 		 {"name":"Brave New World","group":"A","value":28,"colname":"level3"},
 		 {"name":"The Handmaid's Tale","group":"A","value":19,"colname":"level3"},
 		 {"name":"1984","group":"C","value":18,"colname":"level3"},
-		 {"name":"Station Eleven","group":"C","value":19,"colname":"level3"}
+		 {"name":"Station Eleven","group":"C","value":19,"colname":"level3"},
+		 {"name":"Station Eleven","group":"C","value":19,"colname":"level3"},
+		 {"name":"The Hunger Games","group":"C","value":19,"colname":"level3"}
 	 ]
 	},
 	{"name":"Mystery",
@@ -21,7 +24,8 @@
 		 {"name":"And Then There Were None","group":"C","value":14,"colname":"level3"},
 		 {"name":"Gone Girl","group":"A","value":11,"colname":"level3"},
 		 {"name":"In Cold Blood","group":"B","value":15,"colname":"level3"},
-		 {"name":"Woman in White","group":"B","value":16,"colname":"level3"}
+		 {"name":"Woman in White","group":"B","value":16,"colname":"level3"},
+		 {"name":"The Da Vinci Code","group":"B","value":16,"colname":"level3"}
 	 ]
 	},
 	{"name":"Fantasy",
