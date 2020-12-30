@@ -1,80 +1,32 @@
-{
-	"name": "Max",
-	"value": 100,
-	"children": [
-	{
-		"name": "Classics",
-		"value": 32000,
-		"children": [
-		{
-			"name": "Anna Karenina",
-			"value": 28
-		},	
-		{
-			"name": "War and Peace",
-			"value": 18
-		},
-		{
-			"name": "The Great Gatsby",
-			"value": 19
-		},	
-		{
-			"name": "Great Expections",
-			"value": 19
-		}
-		]
+{"children":[
+	{"name":"boss1",
+	 "children":[
+		 {"name":"mister_a","group":"A","value":28,"colname":"level3"},
+		 {"name":"mister_b","group":"A","value":19,"colname":"level3"},
+		 {"name":"mister_c","group":"C","value":18,"colname":"level3"},
+		 {"name":"mister_d","group":"C","value":19,"colname":"level3"}
+	 ],
+	 "colname":"level2"
 	},
-	{
-		"name": "Mystery",
-		"value": 32000,
-		"children": [
-		{
-			"name": "And Then There Were None",
-			"value": 10
-		},	
-		{
-			"name": "Gone Girl",
-			"value": 13
-		},
-		{
-			"name": "In Cold Blood",
-			"value": 13
-		},	
-		{
-			"name": "Woman in White",
-			"value": 25
-		},	
-		{
-			"name": "The Da Vinci Code",
-			"value": 16
-		},	
-		{
-			"name": "The Girl with the Dragon Tattoo",
-			"value": 28
-		}
-		]
+	{"name":"boss2",
+	 "children":[
+		 {"name":"mister_e","group":"C","value":14,"colname":"level3"},
+		 {"name":"mister_f","group":"A","value":11,"colname":"level3"},
+		 {"name":"mister_g","group":"B","value":15,"colname":"level3"},
+		 {"name":"mister_h","group":"B","value":16,"colname":"level3"}
+	 ],
+	 "colname":"level2"
 	},
-	{
-		"name": "Fantasy",
-		"value": 32000,
-		"children": [
-		{
-			"name": "The Fellowship Of The Ring",
-			"value": 14
-		},	
-		{
-			"name": "The Lion, The Witch and The Wardrobe",
-			"value": 15
-		},
-		{
-			"name": "The Golden Compass",
-			"value": 16
-		},	
-		{
-			"name": "American Gods",
-			"value": 11
-		}
-		]
+	{"name":"boss3","children":[
+		{"name":"mister_i","group":"B","value":10,"colname":"level3"},
+		{"name":"mister_j","group":"A","value":13,"colname":"level3"},
+		{"name":"mister_k","group":"A","value":13,"colname":"level3"},
+		{"name":"mister_l","group":"D","value":25,"colname":"level3"},
+		{"name":"mister_m","group":"D","value":16,"colname":"level3"},
+		{"name":"mister_n","group":"D","value":28,"colname":"level3"}
+	],
+	 "colname":"level2"
 	}
-	]
+],
+ "name":"CEO"
 }
