@@ -2,10 +2,10 @@
  "children":[
 	{"name":"Classics",
 	 "children":[
-		 {"name":"Anna Karenina","group":"A","value":28,"colname":"level3"},
-		 {"name":"War and Peace","group":"A","value":19,"colname":"level3"},
-		 {"name":"The Great Gatsby","group":"C","value":18,"colname":"level3"},
-		 {"name":"Great Expectations","group":"C","value":19,"colname":"level3"}
+		 {"name":"Anna Karenina","group":"A","value":1877,"colname":"level3"},
+		 {"name":"War and Peace","group":"A","value":1867,"colname":"level3"},
+		 {"name":"The Great Gatsby","group":"C","value":1925,"colname":"level3"},
+		 {"name":"Great Expectations","group":"C","value":1861,"colname":"level3"}
 	 ]
 	},
 	{"name":"Dystopia",
