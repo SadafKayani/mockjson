@@ -1,4 +1,5 @@
-{"children":[
+{"name":"CEO",
+ "children":[
 	{"name":"boss1",
 	 "children":[
 		 {"name":"mister_a","group":"A","value":28,"colname":"level3"},
@@ -27,6 +28,5 @@
 	],
 	 "colname":"level2"
 	}
-],
- "name":"CEO"
+]
 }
