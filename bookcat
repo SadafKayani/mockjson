@@ -33,8 +33,8 @@
 		{"name":"The Lion, The Witch and The Wardrobe","value":1950,"stars":55},
 		{"name":"The Golden Compass","value":1995,"stars":35},
 		{"name":"American Gods","value":2001,"stars":18},
-		{"name":"Harry Potter and The Sorcerer's Stone","value":1997,"stars":55},
-		{"name":"Eragon","value":2002,"stars":7}
+		{"name":"Harry Potter and The Sorcerer's Stone","value":1997,"stars":67},
+		{"name":"Eragon","value":2002,"stars":17}
 	]
 	},
 	{"name":"Horror",
