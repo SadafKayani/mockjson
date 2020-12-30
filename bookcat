@@ -2,47 +2,47 @@
  "children":[
 	{"name":"Classics",
 	 "children":[
-		 {"name":"Anna Karenina","value":1877,"stars":8,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"War and Peace","value":1867,"stars":12,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"The Great Gatsby","value":1925,"stars":18,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"Great Expectations","value":1861,"stars":37,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"Pride and Prejudice","value":1813,"stars":37,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"}
+		 {"name":"Anna Karenina","value":1877,"stars":4.06,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
+		 {"name":"War and Peace","value":1867,"stars":4.12,"url":"https://www.goodreads.com/book/show/656.War_and_Peace"},
+		 {"name":"The Great Gatsby","value":1925,"stars":3.92,"url":"https://www.goodreads.com/book/show/4671.The_Great_Gatsby"},
+		 {"name":"Great Expectations","value":1861,"stars":3.78,"url":"https://www.goodreads.com/book/show/2623.Great_Expectations"},
+		 {"name":"Pride and Prejudice","value":1813,"stars":4.26,"url":"https://www.goodreads.com/book/show/1885.Pride_and_Prejudice"}
 	 ]
 	},
 	{"name":"Dystopia",
 	 "children":[
-		 {"name":"Brave New World","value":1932,"stars":17,"url":"https://www.goodreads.com/book/show/5129.Brave_New_World"},
-		 {"name":"The Handmaid's Tale","value":1985,"stars":28,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"1984","value":1949,"stars":9,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"Station Eleven","value":2014,"stars":25,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"The Hunger Games","value":2008,"stars":28,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"}
+		 {"name":"Brave New World","value":1932,"stars":3.99,"url":"https://www.goodreads.com/book/show/5129.Brave_New_World"},
+		 {"name":"The Handmaid's Tale","value":1985,"stars":4.11,"url":"https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale"},
+		 {"name":"1984","value":1949,"stars":4.19,"url":"https://www.goodreads.com/book/show/40961427-1984"},
+		 {"name":"Station Eleven","value":2014,"stars":4.05,"url":"https://www.goodreads.com/book/show/20170404-station-eleven"},
+		 {"name":"The Hunger Games","value":2008,"stars":4.33,"url":"https://www.goodreads.com/book/show/2767052-the-hunger-games"}
 	 ]
 	},
 	{"name":"Mystery",
 	 "children":[
-		 {"name":"And Then There Were None","value":1939,"stars":44,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"Gone Girl","value":2012,"stars":12,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"In Cold Blood","value":1965,"stars":24,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"Woman in White","value":1859,"stars":27,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"The Da Vinci Code","value":2003,"stars":32,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"}
+		 {"name":"And Then There Were None","value":1939,"stars":4.26,"url":"https://www.goodreads.com/book/show/16299.And_Then_There_Were_None"},
+		 {"name":"Gone Girl","value":2012,"stars":4.08,"url":"goodreads.com/book/show/19288043-gone-girl"},
+		 {"name":"In Cold Blood","value":1965,"stars":4.07,"url":"https://www.goodreads.com/book/show/168642.In_Cold_Blood"},
+		 {"name":"Woman in White","value":1859,"stars":3.99,"url":"https://www.goodreads.com/book/show/5890.The_Woman_in_White"},
+		 {"name":"The Da Vinci Code","value":2003,"stars":3.86,"url":"https://www.goodreads.com/book/show/968.The_Da_Vinci_Code"}
 	 ]
 	},
 	{"name":"Fantasy",
 	 "children":[
-		{"name":"The Fellowship of The Ring","value":1954,"stars":35,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		{"name":"The Lion, The Witch and The Wardrobe","value":1950,"stars":47,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		{"name":"The Golden Compass","value":1995,"stars":28,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		{"name":"American Gods","value":2001,"stars":18,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		{"name":"Harry Potter and The Sorcerer's Stone","value":1997,"stars":47,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		{"name":"Eragon","value":2002,"stars":17,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"}
+		{"name":"The Fellowship of The Ring","value":1954,"stars":4.36,"url":"https://www.goodreads.com/book/show/3263607-the-fellowship-of-the-ring"},
+		{"name":"The Lion, The Witch and The Wardrobe","value":1950,"stars":4.22,"url":"https://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe"},
+		{"name":"The Golden Compass","value":1995,"stars":3.99,"url":"https://www.goodreads.com/book/show/119322.The_Golden_Compass"},
+		{"name":"American Gods","value":2001,"stars":4.10,"url":"https://www.goodreads.com/book/show/30165203-american-gods"},
+		{"name":"Harry Potter and The Sorcerer's Stone","value":1997,"stars":4.47,"url":"https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone"},
+		{"name":"Eragon","value":2002,"stars":3.91,"url":"https://www.goodreads.com/book/show/113436.Eragon"}
 	]
 	},
 	{"name":"Horror",
 	 "children":[
-		 {"name":"FrankenStein","value":1818,"stars":18,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"The Haunting of Hill House","value":1959,"stars":35,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"It","value":1974,"stars":8,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"},
-		 {"name":"The Silence of Lambs","value":1988,"stars":38,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina"}
+		 {"name":"FrankenStein","value":1818,"stars":3.81,"url":"https://www.goodreads.com/book/show/35031085-frankenstein"},
+		 {"name":"The Haunting of Hill House","value":1959,"stars":3.83,"url":"https://www.goodreads.com/book/show/89717.The_Haunting_of_Hill_House"},
+		 {"name":"The Shining","value":1974,"stars":4.23,"url":"https://www.goodreads.com/book/show/11588.The_Shining"},
+		 {"name":"The Silence of Lambs","value":1988,"stars":4.20,"url":"https://www.goodreads.com/book/show/23807.The_Silence_of_the_Lambs"}
 	 ]
 	}
 ]
