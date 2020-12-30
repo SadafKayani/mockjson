@@ -4,45 +4,45 @@
 	 "children":[
 		 {"name":"Anna Karenina","value":1877,"stars":7},
 		 {"name":"War and Peace","value":1867,"stars":7},
-		 {"name":"The Great Gatsby","value":1925,"stars":7},
+		 {"name":"The Great Gatsby","value":1925,"stars":7.5},
 		 {"name":"Great Expectations","value":1861,"stars":8},
 		 {"name":"Pride and Prejudice","value":1813,"stars":8.5}
 	 ]
 	},
 	{"name":"Dystopia",
 	 "children":[
-		 {"name":"Brave New World","value":1932},
-		 {"name":"The Handmaid's Tale","value":1985},
-		 {"name":"1984","value":1949},
-		 {"name":"Station Eleven","value":2014},
-		 {"name":"The Hunger Games","value":2008}
+		 {"name":"Brave New World","value":1932,"stars":7},
+		 {"name":"The Handmaid's Tale","value":1985,"stars":8.5},
+		 {"name":"1984","value":1949,"stars":6.5},
+		 {"name":"Station Eleven","value":2014,"stars":6},
+		 {"name":"The Hunger Games","value":2008,"stars":6}
 	 ]
 	},
 	{"name":"Mystery",
 	 "children":[
-		 {"name":"And Then There Were None","value":1939},
-		 {"name":"Gone Girl","value":2012},
-		 {"name":"In Cold Blood","value":1965},
-		 {"name":"Woman in White","value":1859},
-		 {"name":"The Da Vinci Code","value":2003}
+		 {"name":"And Then There Were None","value":1939,"stars":9.5},
+		 {"name":"Gone Girl","value":2012,"stars":7.5},
+		 {"name":"In Cold Blood","value":1965,"stars":6.5},
+		 {"name":"Woman in White","value":1859,"stars":7},
+		 {"name":"The Da Vinci Code","value":2003,"stars":7.5}
 	 ]
 	},
 	{"name":"Fantasy",
 	 "children":[
-		{"name":"The Fellowship of The Ring","value":1954},
-		{"name":"The Lion, The Witch and The Wardrobe","value":1950},
-		{"name":"The Golden Compass","value":1995},
-		{"name":"American Gods","value":2001},
-		{"name":"Harry Potter and The Sorcerer's Stone","value":1997},
-		{"name":"Eragon","value":2002}
+		{"name":"The Fellowship of The Ring","value":1954,"stars":8.5},
+		{"name":"The Lion, The Witch and The Wardrobe","value":1950,"stars":9.5},
+		{"name":"The Golden Compass","value":1995,"stars":8},
+		{"name":"American Gods","value":2001,"stars":6.5},
+		{"name":"Harry Potter and The Sorcerer's Stone","value":1997,"stars":9.5},
+		{"name":"Eragon","value":2002,"stars":6}
 	]
 	},
 	{"name":"Horror",
 	 "children":[
-		 {"name":"FrankenStein","value":1818},
-		 {"name":"The Haunting of Hill House","value":1959},
-		 {"name":"It","value":1974},
-		 {"name":"The Silence of Lambs","value":1988}
+		 {"name":"FrankenStein","value":1818,"stars":7},
+		 {"name":"The Haunting of Hill House","value":1959,"stars":8.5},
+		 {"name":"It","value":1974,"stars":8},
+		 {"name":"The Silence of Lambs","value":1988,"stars":8}
 	 ]
 	}
 ]
