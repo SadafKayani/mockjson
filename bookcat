@@ -20,7 +20,7 @@
 	},
 	{"name":"Mystery",
 	 "children":[
-		 {"name":"And Then There Were None","value":1939,"stars":4.26,"url":"https://www.goodreads.com/book/show/16299.And_Then_There_Were_None","size":5},
+		 {"name":"And Then There Were None","value":1939,"stars":4.26,"url":"https://www.goodreads.com/book/show/16299.And_Then_There_Were_None","size":7},
 		 {"name":"Gone Girl","value":2012,"stars":4.08,"url":"goodreads.com/book/show/19288043-gone-girl","size":2},
 		 {"name":"In Cold Blood","value":1965,"stars":4.07,"url":"https://www.goodreads.com/book/show/168642.In_Cold_Blood","size":3},
 		 {"name":"Woman in White","value":1859,"stars":3.99,"url":"https://www.goodreads.com/book/show/5890.The_Woman_in_White","size":3},
