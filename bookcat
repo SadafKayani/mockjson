@@ -3,10 +3,10 @@
 	{"name":"Classics",
 	 "children":[
 		 {"name":"Anna Karenina","value":1877,"stars":4.06,"url":"https://www.goodreads.com/book/show/15823480-anna-karenina","size":2},
-		 {"name":"War and Peace","value":1867,"stars":4.12,"url":"https://www.goodreads.com/book/show/656.War_and_Peace","size":3},
-		 {"name":"The Great Gatsby","value":1925,"stars":3.92,"url":"https://www.goodreads.com/book/show/4671.The_Great_Gatsby","size":3},
-		 {"name":"Great Expectations","value":1861,"stars":3.78,"url":"https://www.goodreads.com/book/show/2623.Great_Expectations","size":4},
-		 {"name":"Pride and Prejudice","value":1813,"stars":4.26,"url":"https://www.goodreads.com/book/show/1885.Pride_and_Prejudice","size":4}
+		 {"name":"War and Peace","value":1867,"stars":4.12,"url":"https://www.goodreads.com/book/show/656.War_and_Peace","size":2},
+		 {"name":"The Great Gatsby","value":1925,"stars":3.92,"url":"https://www.goodreads.com/book/show/4671.The_Great_Gatsby","size":2},
+		 {"name":"Great Expectations","value":1861,"stars":3.78,"url":"https://www.goodreads.com/book/show/2623.Great_Expectations","size":5},
+		 {"name":"Pride and Prejudice","value":1813,"stars":4.26,"url":"https://www.goodreads.com/book/show/1885.Pride_and_Prejudice","size":5}
 	 ]
 	},
 	{"name":"Dystopia",
