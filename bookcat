@@ -6,36 +6,35 @@
 		 {"name":"War and Peace","group":"A","value":1867,"colname":"level3"},
 		 {"name":"The Great Gatsby","group":"C","value":1925,"colname":"level3"},
 		 {"name":"Great Expectations","group":"C","value":1861,"colname":"level3"},
-		 {"name":"Pride and Prejudice","group":"C","value":1861,"colname":"level3"}
+		 {"name":"Pride and Prejudice","group":"C","value":1813,"colname":"level3"}
 	 ]
 	},
 	{"name":"Dystopia",
 	 "children":[
-		 {"name":"Brave New World","group":"A","value":28,"colname":"level3"},
-		 {"name":"The Handmaid's Tale","group":"A","value":19,"colname":"level3"},
-		 {"name":"1984","group":"C","value":18,"colname":"level3"},
-		 {"name":"Station Eleven","group":"C","value":19,"colname":"level3"},
-		 {"name":"Station Eleven","group":"C","value":19,"colname":"level3"},
-		 {"name":"The Hunger Games","group":"C","value":19,"colname":"level3"}
+		 {"name":"Brave New World","group":"A","value":1932,"colname":"level3"},
+		 {"name":"The Handmaid's Tale","group":"A","value":1985,"colname":"level3"},
+		 {"name":"1984","group":"C","value":1949,"colname":"level3"},
+		 {"name":"Station Eleven","group":"C","value":2014,"colname":"level3"},
+		 {"name":"The Hunger Games","group":"C","value":2008,"colname":"level3"}
 	 ]
 	},
 	{"name":"Mystery",
 	 "children":[
-		 {"name":"And Then There Were None","group":"C","value":14,"colname":"level3"},
-		 {"name":"Gone Girl","group":"A","value":11,"colname":"level3"},
-		 {"name":"In Cold Blood","group":"B","value":15,"colname":"level3"},
-		 {"name":"Woman in White","group":"B","value":16,"colname":"level3"},
-		 {"name":"The Da Vinci Code","group":"B","value":16,"colname":"level3"}
+		 {"name":"And Then There Were None","group":"C","value":1939,"colname":"level3"},
+		 {"name":"Gone Girl","group":"A","value":2012,"colname":"level3"},
+		 {"name":"In Cold Blood","group":"B","value":1965,"colname":"level3"},
+		 {"name":"Woman in White","group":"B","value":1859,"colname":"level3"},
+		 {"name":"The Da Vinci Code","group":"B","value":2003,"colname":"level3"}
 	 ]
 	},
 	{"name":"Fantasy",
 	 "children":[
-		{"name":"The Fellowship of The Ring","group":"B","value":10,"colname":"level3"},
-		{"name":"The Lion, The Witch and The Wardrobe","group":"A","value":13,"colname":"level3"},
-		{"name":"The Golden Compass","group":"A","value":13,"colname":"level3"},
-		{"name":"American Gods","group":"D","value":25,"colname":"level3"},
-		{"name":"Harry Potter and The Sorcerer's Stone","group":"D","value":16,"colname":"level3"},
-		{"name":"Eragon","group":"D","value":28,"colname":"level3"}
+		{"name":"The Fellowship of The Ring","group":"B","value":1954,"colname":"level3"},
+		{"name":"The Lion, The Witch and The Wardrobe","group":"A","value":1950,"colname":"level3"},
+		{"name":"The Golden Compass","group":"A","value":1995,"colname":"level3"},
+		{"name":"American Gods","group":"D","value":2001,"colname":"level3"},
+		{"name":"Harry Potter and The Sorcerer's Stone","group":"D","value":1997,"colname":"level3"},
+		{"name":"Eragon","group":"D","value":2002,"colname":"level3"}
 	]
 	}
 ]
