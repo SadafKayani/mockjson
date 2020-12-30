@@ -2,11 +2,11 @@
  "children":[
 	{"name":"Classics",
 	 "children":[
-		 {"name":"Anna Karenina","value":1877},
-		 {"name":"War and Peace","value":1867},
-		 {"name":"The Great Gatsby","value":1925},
-		 {"name":"Great Expectations","value":1861},
-		 {"name":"Pride and Prejudice","value":1813}
+		 {"name":"Anna Karenina","value":1877,"stars":7},
+		 {"name":"War and Peace","value":1867,"stars":7},
+		 {"name":"The Great Gatsby","value":1925,"stars":7},
+		 {"name":"Great Expectations","value":1861,"stars":8},
+		 {"name":"Pride and Prejudice","value":1813,"stars":8.5}
 	 ]
 	},
 	{"name":"Dystopia",
